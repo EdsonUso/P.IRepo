@@ -1,0 +1,31 @@
+.container {
+    width: 500px;
+    height: 500px;
+    background-color: #ffa500;
+}
+
+.box {
+    width: 50%;
+    height: 50%;
+    background-color: #90ee90;
+}
+
+p {
+    color: #fff;
+    background-color: red;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.container-2 {
+    width: 50%;
+    height: 100vh;
+    background-color: rgb(101, 200, 240);
+}
+
+.container-2 .box {
+    width: 75vw;
+    height: 50%;
+    background-color: rgb(255,0,0);
+}
